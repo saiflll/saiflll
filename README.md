@@ -1,76 +1,60 @@
 <!-- ✨ KOMI'S GITHUB PROFILE ✨ -->
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm Komi!</h1>
-<h3 align="center">⚙️ Embedded Developer | IoT Engineer | System Integrator ⚙️</h3>
+<table width="100%">
+<tr>
+<td align="left" width="55%">
 
-<p align="center">
-  Passionate about building reliable embedded systems, industrial automation, and smart IoT solutions.  
-  I love bridging hardware and cloud — from ESP32s to full-stack dashboards 🚀
+<h1 style="font-size:2.5rem;color:#c77dff;margin-bottom:0;">👋 Hi, I'm Komi</h1>
+<p style="font-size:1.1rem;color:#bbb;margin-top:5px;">
+⚙️ Embedded Developer & IoT Engineer<br>
+Building smarter systems from firmware to full-stack ⚡
 </p>
+
+</td>
+<td align="right" width="45%">
+<img src="https://profil-amber.vercel.app/api?username=saiflll&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="95%"/>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧠 Quick Overview
-
-- 💻 Focused on **IoT, firmware (C/C++/MicroPython)**, and **backend integration (Go, MQTT, WebSocket)**  
-- 🧩 Currently developing **environment monitoring systems** and **factory automation dashboards**  
-- 🌱 Learning more about **DevOps + Docker + BLE-to-Web** workflows  
-- ⚡ Fun fact: I break things fast, then build them better 😎
-
----
-
-<h2 align="center">🔥 My GitHub Stats 🔥</h2>
-
-<p align="center">
-  <img 
-    src="https://profil-amber.vercel.app/api?username=saiflll&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"
-    alt="Komi's GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://profil-amber.vercel.app/api/top-langs/?username=saiflll&layout=compact&theme=tokyonight&langs_count=8"
-    alt="Top Langs"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=saiflll&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+<table width="100%">
+<tr>
+<td width="60%" align="center">
+<img src="https://profil-amber.vercel.app/api/top-langs/?username=saiflll&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="90%"/>
+</td>
+<td width="40%" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saiflll&theme=tokyonight&hide_border=true" width="90%"/>
+</td>
+</tr>
+</table>
 
 ---
 
-<h2 align="center">🐍 Contribution Graph Animation</h2>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/saiflll/saiflll/output/github-contribution-grid-snake-dark.svg"
-    alt="snake animation"
-  />
-</p>
+### 🌐 Connect with Me
+<a href="https://linkedin.com/in/saiflll">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+</a>
+<a href="mailto:komi@envi-factory.local">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+</a>
+<a href="https://github.com/saiflll">
+  <img src="https://skillicons.dev/icons?i=github" width="40" />
+</a>
 
----
-
-<h3 align="center">📫 Connect with Me</h3>
-
-<p align="center">
-  <a href="https://github.com/saiflll">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/saiflll">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:komi@envi-factory.local">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>⚡ “Code it. Test it. Break it. Fix it. Repeat.” ⚡</i>
+<div align="center">
+<img src="https://raw.githubusercontent.com/saiflll/saiflll/output/github-contribution-grid-snake-dark.svg" width="95%">
+</div>
+
+<p align="center" style="color:#c77dff;margin-top:20px;">
+  <i>“Code it. Test it. Break it. Fix it. Repeat.”</i>
 </p>
+</div>
