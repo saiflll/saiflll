@@ -5,7 +5,7 @@
 <table width="100%" style="border-collapse:collapse;">
 <tr>
 <td align="left" width="60%" style="vertical-align:middle;padding:10px;">
-<h1 style="font-size:2.4rem;color:#c77dff;margin:0;">👋 Hi, I'm Komi</h1>
+<h1 style="font-size:2.4rem;color:#c77dff;margin:0;"> Hi, I'm Saiflll</h1>
 <p style="font-size:1.05rem;color:#bbb;margin-top:5px;line-height:1.5;">
 ⚙️ <b style="color:#9d7dff;">Embedded Developer & IoT Engineer</b><br>
 Building smarter systems — from firmware to full-stack dev ⚡
