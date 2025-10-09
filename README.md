@@ -1,60 +1,20 @@
 <!-- ✨ KOMI'S GITHUB PROFILE ✨ -->
-<div align="center">
+<div align="center" style="background:rgba(40,20,70,0.35);border-radius:20px;padding:25px;border:1px solid rgba(160,90,255,0.4);backdrop-filter:blur(10px);box-shadow:0 0 25px rgba(150,80,255,0.3);">
 
-<table width="100%">
+<!-- HEADER -->
+<table width="100%" style="border-collapse:collapse;">
 <tr>
-<td align="left" width="55%">
-
-<h1 style="font-size:2.5rem;color:#c77dff;margin-bottom:0;">👋 Hi, I'm Komi</h1>
-<p style="font-size:1.1rem;color:#bbb;margin-top:5px;">
-⚙️ Embedded Developer & IoT Engineer<br>
-Building smarter systems from firmware to full-stack ⚡
+<td align="left" width="60%" style="vertical-align:middle;padding:10px;">
+<h1 style="font-size:2.4rem;color:#c77dff;margin:0;">👋 Hi, I'm Komi</h1>
+<p style="font-size:1.05rem;color:#bbb;margin-top:5px;line-height:1.5;">
+⚙️ <b style="color:#9d7dff;">Embedded Developer & IoT Engineer</b><br>
+Building smarter systems — from firmware to full-stack dev ⚡
 </p>
-
 </td>
-<td align="right" width="45%">
-<img src="https://profil-amber.vercel.app/api?username=saiflll&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="95%"/>
+
+<td align="center" width="40%" style="padding:10px;">
+<img src="https://profil-amber.vercel.app/api/top-langs/?username=saiflll&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="95%"/>
 </td>
 </tr>
 </table>
 
----
-
-<table width="100%">
-<tr>
-<td width="60%" align="center">
-<img src="https://profil-amber.vercel.app/api/top-langs/?username=saiflll&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="90%"/>
-</td>
-<td width="40%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saiflll&theme=tokyonight&hide_border=true" width="90%"/>
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### 🌐 Connect with Me
-<a href="https://linkedin.com/in/saiflll">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-</a>
-<a href="mailto:komi@envi-factory.local">
-  <img src="https://skillicons.dev/icons?i=gmail" width="40" />
-</a>
-<a href="https://github.com/saiflll">
-  <img src="https://skillicons.dev/icons?i=github" width="40" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/saiflll/saiflll/output/github-contribution-grid-snake-dark.svg" width="95%">
-</div>
-
-<p align="center" style="color:#c77dff;margin-top:20px;">
-  <i>“Code it. Test it. Break it. Fix it. Repeat.”</i>
-</p>
-</div>
