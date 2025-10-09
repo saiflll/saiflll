@@ -37,3 +37,12 @@
 
 > ✨ *“Engineering should solve problems, not create them.”*
 ![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77C72&width=435&lines=Embedded+Systems+Developer;IoT+Engineer;Backend+Architect;Problem+Solver)
+
+<p align="center">
+  <img src="https://github-readme-stats-saiflll.vercel.app/api?username=saiflll&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-saiflll.vercel.app/api/top-langs/?username=saiflll&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+
