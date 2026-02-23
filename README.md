@@ -12,18 +12,18 @@
 
 ---
 
-## 🎯 About Me
+## \~> About Me
 
 I'm a passionate **Embedded Systems Developer** and **IoT Engineer** dedicated to creating innovative solutions that bridge hardware and software. With a focus on firmware development, embedded Linux, and full-stack IoT applications, I transform complex technical challenges into elegant, efficient systems.
 
-- 🔧 Specializing in microcontroller programming and embedded systems
-- 🌐 Full-stack IoT solutions from edge devices to cloud integration
-- 💡 Passionate about optimizing code for performance and resource efficiency
-- 🚀 Always exploring emerging technologies and best practices
+-  Specializing in microcontroller programming and embedded systems
+-  Full-stack IoT solutions from edge devices to cloud integration
+-  Passionate about optimizing code for performance and resource efficiency
+-  Always exploring emerging technologies and best practices
 
 ---
 
-## 💻 Tech Stack
+## ~ Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -46,40 +46,16 @@ I'm a passionate **Embedded Systems Developer** and **IoT Engineer** dedicated t
 
 ---
 
-## 📊 GitHub Statistics
+## ~> Stat
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiflll&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiflll&layout=compact&theme=tokyonight&hide_border=true)
+<td align="center" width="40%" style="padding:10px;"> <img src="https://profil-amber.vercel.app/api/top-langs/?username=saiflll&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="95%"/>
 
 </div>
 
----
 
-## 🏆 Featured Projects
-
-<!-- Your top projects will go here -->
-
-- 🎯 **Project coming soon** - Description of your flagship project
-- 🔌 **IoT Hub** - Smart device management and monitoring system
-- ⚙️ **Embedded Framework** - Lightweight library for microcontroller development
-
-*More projects available on my [repositories](https://github.com/saiflll?tab=repositories)*
-
----
-
-## 🌱 Currently Learning
-
-- Advanced real-time systems and RTOS design
-- Cloud IoT platforms (AWS, Azure IoT)
-- Machine learning at the edge
-- Advanced firmware security practices
-
----
-
-## 📫 Connect With Me
+## ~> Connect With Me
 
 <div align="center">
 
@@ -91,11 +67,6 @@ I'm a passionate **Embedded Systems Developer** and **IoT Engineer** dedicated t
 </div>
 
 ---
-
-<div align="center">
-
-**Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.** 🚀
-
-*Last updated: February 2026*
+*updated: February 2026*
 
 </div>
